@@ -6,5 +6,5 @@
 5.Using the scanner, we will receive input from both users (in squares 1 - 9)
 6.Create a method to check the winner ( creating all the winning positions)
 7.Create array lists for each player to check their placement of symbols
-8.Create a method to congratulate whoever has won or to do a message if it is a tie.
+8.Create a method to congratulate whoever has won or to print out a message "It's a tie"if it is a tie.
 9.Make sure, that it is not possible to make any changes in the squares, that are already taken.
