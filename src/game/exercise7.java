@@ -28,4 +28,8 @@ public class exercise7 {
     //          7
     //         Example output:
     //         Sorry, you lost!
+    //      c) Example input:
+    //         2
+    //         Example output:
+    //         This game square is already taken! Please choose another one!
 }
