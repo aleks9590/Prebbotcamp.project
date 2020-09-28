@@ -1,6 +1,8 @@
 package easyGame;
 
 public class game {
+
+
         private char[][] board;
         private char player;
 
@@ -78,10 +80,10 @@ public class game {
             return false;
         }
 
-        private boolean determineSimilarity(char col1, char col2, char col3){
-            return ((col1 == col2) &&
-                    (col2 == col3) &&
-                    (col1 != ' '));
+        private boolean determineSimilarity(char char1, char char2, char char3){
+            return ((char1 == char2) &&
+                    (char2 == char3) &&
+                    (char1 != ' '));
         }
 
         public void whoseTurn() {

@@ -29,7 +29,7 @@ public class gameOutput {
             System.out.println("Here is our board: ");
             ticTacToe.printBoard();
             ticTacToe.whoseTurn();
-            System.out.println("Congratulations, " + Character.toUpperCase(ticTacToe.getPlayer()) + " You win!");
+            System.out.println("Congratulations, " + ticTacToe.getPlayer() + " You win!");
         }
     }
 }
