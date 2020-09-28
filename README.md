@@ -13,7 +13,7 @@ each of the users will have chosen. The placement of x or o will continue until 
   oleksandra - helga - project
   
 DESCRIPTION
- During these few last weeks we got familiar with numerous tutorials. We tried to repeat some of them, did some analysis of different codes and finally made this version of the Tic Tac Toe game.
+During these few last weeks we got familiar with numerous tutorials. We tried to repeat some of them, did some analysis of different codes and finally made this version of the Tic Tac Toe game.
 
  So first of all, we decided that we will create the game Tic Tac Toe. A game that prints out the board and then asks the user(player - “X”) for his input (two integers, determining the placement of the player’s sign) . After player 1 has made his move, the game prints out a new board with the first input already in the board and asks player  - “O” to make his move. Then players are taking turns until the board is full (made possible by using if-else statement).
 
